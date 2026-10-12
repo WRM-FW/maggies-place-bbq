@@ -1,0 +1,12 @@
+# OS / editor noise
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Local-only briefs, screenshots and research material (not part of the site)
+物料/
+_review/
+zoom/
+assets_raw/
+相关链接/
+*.zip
