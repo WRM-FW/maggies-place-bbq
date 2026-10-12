@@ -1,5 +1,7 @@
 # Maggie's Place BBQ — Official Website
 
+中文说明见 [README.zh-CN.md](README.zh-CN.md)（documentation only — the site itself is English）.
+
 > **Slow-Cooked. Wood-Fired. Really Fricken Good BBQ.**  
 > 11 Margaret Place, Frankton, Queenstown 9300, New Zealand  
 > Phone: [+64 22 410 5525](tel:+64224105525) | Email: [maggiesplacebbq@gmail.com](mailto:maggiesplacebbq@gmail.com)  
